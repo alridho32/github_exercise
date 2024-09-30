@@ -1,0 +1,11 @@
+1. pwd untuk melihat directory kerja kita
+2. cd untuk pindah directory
+3. ls untuk melihat isi directory
+4. mkdir untuk membuat folder
+5. rm untuk remove directory
+6. cat untuk read file .txt
+7. vim untuk membuat file .txt baru
+8. mv untuk memindahkan file
+9. cp untuk copy file
+10. wget untuk download file dari internet
+11 zip dan unzip untuk compress dan ekstraksi file
